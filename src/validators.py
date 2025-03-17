@@ -1,6 +1,6 @@
 import pandas as pd
 from typing import List
-from .models import UserModel
+from models import UserModel
 
 def validar_planilha(df: pd.DataFrame) -> List[str]:
     erros = []
