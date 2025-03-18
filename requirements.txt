@@ -2,3 +2,8 @@ pandas
 streamlit
 pydantic
 openpyxl
+ydata-profiling
+deepchecks
+anywidget
+great_expectations
+pandera

@@ -1,0 +1,2610 @@
+[
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Tipo_Dia",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Tipo_de_Anuncio",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Segmentacao",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Fase_Funil",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Link_clicks",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Amount_spent",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Ad_name",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "AdSet_name",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Dia_da_Semana",
+        "index": null
+    },
+    {
+        "schema_context": "DataFrameSchema",
+        "column": "LeadFunnelSchema",
+        "check": "column_in_dataframe",
+        "check_number": null,
+        "failure_case": "Ano_Mes",
+        "index": null
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1983
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1978
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1979
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1982
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1374
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1984
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1985
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1975
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1977
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1961
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1974
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1969
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1968
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1967
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1965
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1990
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1960
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1959
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1989
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1997
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1991
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1992
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2011
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2009
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2008
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2007
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2005
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2004
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2003
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2002
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2001
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2000
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1999
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1998
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1956
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1996
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1993
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1957
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1942
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1948
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1908
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1901
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1900
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1897
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1896
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1895
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1880
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1879
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1878
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1877
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1876
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1875
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1870
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1869
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1868
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1865
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1903
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1909
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1947
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1910
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1946
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1945
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2013
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1941
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1940
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1939
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1936
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1935
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1934
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1931
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1930
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1929
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1915
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1914
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1911
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2012
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2023
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2014
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2081
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2088
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2087
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2086
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2085
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2084
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2083
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2082
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2080
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2015
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2079
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2078
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2077
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2076
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2075
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2074
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2073
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2089
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2090
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2091
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2092
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2107
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2106
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2105
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2104
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2103
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2102
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2101
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2100
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2099
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2098
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2097
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2096
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2095
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2094
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2093
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2072
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2071
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2070
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2042
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2040
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2039
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2038
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2037
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2036
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2035
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2028
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2027
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2026
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2025
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2024
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1375
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2021
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2020
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2016
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2041
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2047
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2069
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2048
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2068
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2065
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2064
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2063
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2062
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2061
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2060
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2059
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2058
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2054
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2053
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2052
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2051
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2050
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 2049
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1864
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1863
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1848
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1477
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1532
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1531
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1530
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1520
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1519
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1518
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1517
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1516
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1515
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1496
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1495
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1494
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1493
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1482
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1481
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1480
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1479
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1541
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1542
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1543
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1575
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1606
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1589
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1588
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1587
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1586
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1585
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1576
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1574
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1544
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1567
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1566
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1565
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1564
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1563
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1562
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1545
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1478
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1459
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1847
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1458
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1392
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1391
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1390
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1389
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1388
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1387
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1386
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1385
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1384
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1383
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1382
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1381
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1380
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1379
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1378
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1377
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1376
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1393
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1394
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1395
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1423
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1457
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1446
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1445
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1444
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1443
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1442
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1441
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1422
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1396
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1421
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1420
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1419
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1418
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1417
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1416
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1397
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1607
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1608
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1614
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1615
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1801
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1800
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1785
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1784
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1783
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1782
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1781
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1780
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1775
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1774
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1773
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1770
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1769
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1768
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1765
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1764
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1763
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1802
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1805
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1806
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1833
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1846
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1845
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1844
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1843
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1838
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1837
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1836
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1832
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1807
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1831
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1817
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1816
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1815
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1814
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1813
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1812
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1748
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1747
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1746
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1648
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1669
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1667
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1666
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1665
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1656
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1655
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1654
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1647
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1687
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1646
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1629
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1628
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1627
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1626
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1625
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1616
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1670
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1688
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1741
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1726
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1740
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1739
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1736
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1735
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1734
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1728
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1727
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1708
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1689
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1707
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1705
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1704
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1703
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1697
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1696
+    },
+    {
+        "schema_context": "Column",
+        "column": "Objetivo",
+        "check": "isin(['Leads', 'Conversão', 'Engajamento'])",
+        "check_number": 0,
+        "failure_case": "Awareness",
+        "index": 1695
+    },
+    {
+        "schema_context": "Column",
+        "column": "Conversions",
+        "check": "dtype('int64')",
+        "check_number": null,
+        "failure_case": "float64",
+        "index": null
+    }
+]
