@@ -4,9 +4,6 @@ import sqlite3
 import os
 import sys
 
-# Adicionar o diretório pai ao path (alternativa a usar src. nos imports)
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-
 # Importações locais
 from src.validators import validar_planilha
 from src.database import conectar_db, salvar_dados
