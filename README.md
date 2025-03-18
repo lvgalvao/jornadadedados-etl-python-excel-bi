@@ -114,38 +114,56 @@ flowchart TD
 - **Armazenamento**: AWS S3, Google BigQuery
 - **Ferramentas de Monitoramento**: Prometheus, Grafana
 
-## Como Executar o Projeto
+Aqui está a **estrutura de pastas** e um esboço do **código inicial** do projeto **Validador de Excel** para o funil de leads e investimento das campanhas. 
 
+---
+
+## 📂 **Estrutura de Pastas**
+```bash
+validador_excel/
+│── data/                 # 📂 Pasta para armazenar os arquivos de entrada e saída
+│   ├── jornada_de_dados_2024.csv        # 📄 Planilha com os dados de 2024
+│   ├── jornada_de_dados_2025_jan.csv       # 📄 Planilha corrigida
+│
+│── src/                  # 📂 Código-fonte principal
+│   ├── main.py           # 🚀 Script principal
+│   ├── validate.py       # ✅ Módulo de validação de dados
+│   ├── normalize.py      # 🛠 Módulo de normalização de dados
+│   ├── insights.py       # 📊 Geração de métricas e gráficos
+│   ├── export.py         # 📤 Exportação da planilha corrigida e relatórios
+│   ├── config.py         # ⚙ Configuração de parâmetros (nomes de colunas, etc.)
+│
+│── tests/                # 📂 Testes unitários
+│   ├── test_validate.py  # 🧪 Testes para a validação
+│   ├── test_normalize.py # 🧪 Testes para a normalização
+│
+│── requirements.txt      # 📦 Dependências do projeto
+│── README.md             # 📖 Documentação do projeto
+```
+---
+
+## 🚀 **Como Rodar o Projeto**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-repositorio/projeto-etl.git
+   git clone https://github.com/seu-usuario/validador_excel.git
+   cd validador_excel
    ```
+
 2. Instale as dependências:
    ```bash
    pip install -r requirements.txt
    ```
-3. Configure as variáveis de ambiente:
+
+3. Execute o script principal:
    ```bash
-   export DATABASE_URL="sua-url-do-banco"
-   export API_KEY="sua-chave-api"
+   python src/main.py
    ```
-4. Execute o pipeline:
-   ```bash
-   python run_pipeline.py
-   ```
-
-## Resultados e Métricas
-
-- **Redução de 80% nos erros de consolidação de relatórios financeiros**
-- **Diminuição de 60% no tempo gasto em revisão manual dos dados**
-- **Aumento de 30% na eficiência das análises financeiras**
-
-## Próximos Passos
-
-- Melhorias na interface de monitoramento
-- Expansão para outras fontes de dados
-- Integração com modelos preditivos
 
 ---
-*Nota: Atualize as informações conforme necessário para o seu projeto.*
 
+## 📌 **Próximos Passos**
+- **Adicionar testes unitários** (`pytest`).
+- **Melhorar a geração de relatórios** (usar `pdfkit` para criar PDFs).
+- **Automatizar envio da planilha corrigida para o Google Drive ou WhatsApp**.
+
+🔥 **Pronto para validar seus dados automaticamente!** 🚀 Se precisar de ajustes, só me chamar!
